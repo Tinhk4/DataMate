@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+kaleido
+jupyterlab
+python-dotenv
+langchain-google-genai
+langchain_nvidia_ai_endpoints
+tabulate
